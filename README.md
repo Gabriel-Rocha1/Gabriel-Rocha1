@@ -1,4 +1,4 @@
-### Olá, me chamo Gabriel 👋
+### Olá, sou Gabriel 👋
 
 🎓&nbsp; Estudando Tecnologia da Informação na UFRN.\
 🖥️&nbsp; Interessado em Web Design, Machine Learning e Design de Jogos.\
