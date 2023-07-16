@@ -1,5 +1,9 @@
-### Olá, sou Gabriel 👋
+### Olá, me chamo Gabriel 👋
+
+🎓&nbsp; Estudando Tecnologia da Informação na UFRN.\
+🖥️&nbsp; Interessado em Web Design, Machine Learning e Design de Jogos.\
+<br><br>
+<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Rocha1&theme=tokyonight&hide_border=true&layout=donut&locale=pt-br" />
 
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Rocha1&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&hide=stars,issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Rocha1&theme=tokyonight&hide_border=true&layout=donut&locale=pt-br)
+
