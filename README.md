@@ -1,7 +1,7 @@
 ### Olá, sou Gabriel 👋
 
 🎓&nbsp; Estudando Tecnologia da Informação na UFRN.\
-🖥️&nbsp; Interessado em Web Design, Machine Learning e Design de Jogos.\
+🖥️&nbsp; Interessado em Machine Learning, Web design e Game design.\
 <br><br>
 ![gabriel-rch's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-rch&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 <br><br>
